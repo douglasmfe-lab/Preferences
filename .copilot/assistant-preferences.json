@@ -10,7 +10,13 @@
   },
   "tecnologias": {
     "mendix": {
-      "versao_padrao_docs": "10.22"
+      "versao_padrao_docs": "10.22",
+      "resposta_padrao": {
+        "basear_em_preferencias_registradas": true,
+        "estilo": "didática",
+        "formato": "passo-a-passo",
+        "nivel_detalhe": "alto"
+      }
     }
   },
   "observacoes": ""
