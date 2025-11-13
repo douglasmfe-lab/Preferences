@@ -1,0 +1,17 @@
+{
+  "nome": "Douglas",
+  "idioma": "pt-BR",
+  "repos_foco": ["douglasmfe-lab/Preferences"],
+  "branch_padrao": "main",
+  "labels_padrao": [],
+  "templates_issue": {
+    "bug": "Passos para reproduzir, Resultado esperado, Resultado obtido, Logs/prints",
+    "feature": "Contexto, Proposta, Critérios de aceite"
+  },
+  "tecnologias": {
+    "mendix": {
+      "versao_padrao_docs": "10.22"
+    }
+  },
+  "observacoes": ""
+}
